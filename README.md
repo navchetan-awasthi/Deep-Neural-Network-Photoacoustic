@@ -1,6 +1,4 @@
-# dnnpat
-
-Deep Neural-Network Based Sinogram Super-resolution and Bandwidth Enhancement for Limited Data Photoacoustic Tomography
+# Deep Neural-Network Based Sinogram Super-resolution and Bandwidth Enhancement for Limited Data Photoacoustic Tomography
 
 
 This MATLAB code was used as part of the work presented in
